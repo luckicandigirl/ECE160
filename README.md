@@ -1,8 +1,10 @@
 # ECE160
 ECE160: Programming Languages 
 
-Introductory course into programming featuring projects & assignments given.
+Programming in C in a Linux environment, with an emphasis on software development methodology. 
 
-Main language used for the course: C
+Data types, expressions, control flow, pointers, subroutines, numerical and text processing, data structures and algorithms. 
 
-Some Linux commands were learned for Cygwin/Ubuntu.
+Introduction to computer architecture and operating systems. 
+
+Introduction to object oriented programming in C++, and classification of programming languages.
